@@ -1,0 +1,21 @@
+{
+  "name": "naysayer-reloaded",
+  "displayName": "Naysayer Reloaded",
+  "description": "Colorscheme based on Jonathan Blow's emacs colorscheme seen in compiler livestreams.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Piyush Pradhan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naysayer.json"
+      }
+    ]
+  }
+}

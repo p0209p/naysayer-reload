@@ -6,8 +6,9 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/p0209p/naysayer-reloaded"
+    "url": "https://github.com/p0209p/naysayer-reloaded.git"
   },
+  "icon": "speak_no_evil.png",
   "license": "see LICENSE",
   "engines": {
     "vscode": "^1.87.0"

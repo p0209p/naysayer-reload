@@ -1,28 +1,29 @@
 {
-  "name": "naysayerr",
+  "name": "naysayer-reloaded",
   "displayName": "Naysayer Reloaded",
   "publisher": "PiyushPradhan",
-  "author": {
-    "name": "Piyush Pradhan"
-  },
   "description": "Colorscheme based on Jonathan Blow's emacs colorscheme seen in compiler livestreams.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/p0209p/naysayer-reloaded"
   },
-  "license": "MIT",
+  "license": "see LICENSE",
   "engines": {
     "vscode": "^1.87.0"
   },
   "keywords": [
-    "themes",
-    "colorschemes",
-    "naysayer",
-    "jonathan blow",
-    "compiler",
-    "emacs"
+    "Dark Theme",
+    "soothing",
+    "Solarized",
+    "Naysayer",
+    "Jonathan Blow",
+    "Emacs"
   ],
+  "galleryBanner": {
+    "color": "#062329",
+    "theme": "dark"
+  },
   "categories": [
     "Themes"
   ],

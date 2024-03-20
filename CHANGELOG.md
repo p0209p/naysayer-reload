@@ -1,5 +1,5 @@
 # Change Log
-All changes to the "naysayer-reloaded" extension will be documented in this file.
+All notable changes to the "naysayer-reloaded" extension are documented in this file.
 
-## Added
-- v1.0.0 Support for all relevant UI elements.
+## "1.0.0"
+- Updated README, Python docstring as comments configuration.

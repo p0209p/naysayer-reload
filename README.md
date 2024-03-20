@@ -1,7 +1,7 @@
 # 🙊 Naysayer Reloaded
 Naysayer Reloaded is a VSCode colorscheme that is based on Jonathan Blow's Emacs [naysayer theme](https://youtu.be/HkVSTjWZXIU?t=3902), with some small modifications to make it more readable.
 
-![Preview](./assets/preview.png)
+![Preview](preview.png)
 
 ## Features
 Simple theme, with very little additional changes unless necessary.

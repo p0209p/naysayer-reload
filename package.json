@@ -11,7 +11,7 @@
   "icon": "speak_no_evil.png",
   "license": "see LICENSE",
   "engines": {
-    "vscode": "^1.87.0"
+    "vscode": "^1.17.0"
   },
   "keywords": [
     "Dark Theme",

@@ -1,5 +1,6 @@
 {
   "name": "naysayer-reloaded",
+  "publisher": "PiyushPradhan",
   "displayName": "Naysayer Reloaded",
   "description": "Colorscheme based on Jonathan Blow's emacs colorscheme seen in compiler livestreams.",
   "version": "0.0.1",
@@ -20,5 +21,9 @@
   },
   "dependencies": {
     "@vscode/vsce": "^2.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p0209p/naysayer-reload.git"
   }
 }
